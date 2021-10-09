@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pwa-platzi-recetas/static/css/main.08c260af.chunk.css",
+    "main.js": "/pwa-platzi-recetas/static/js/main.80a8d413.chunk.js",
+    "main.js.map": "/pwa-platzi-recetas/static/js/main.80a8d413.chunk.js.map",
+    "runtime-main.js": "/pwa-platzi-recetas/static/js/runtime-main.af5bb32d.js",
+    "runtime-main.js.map": "/pwa-platzi-recetas/static/js/runtime-main.af5bb32d.js.map",
+    "static/js/2.5bfef1b9.chunk.js": "/pwa-platzi-recetas/static/js/2.5bfef1b9.chunk.js",
+    "static/js/2.5bfef1b9.chunk.js.map": "/pwa-platzi-recetas/static/js/2.5bfef1b9.chunk.js.map",
+    "static/js/3.3c83da08.chunk.js": "/pwa-platzi-recetas/static/js/3.3c83da08.chunk.js",
+    "static/js/3.3c83da08.chunk.js.map": "/pwa-platzi-recetas/static/js/3.3c83da08.chunk.js.map",
+    "index.html": "/pwa-platzi-recetas/index.html",
+    "service-worker.js": "/pwa-platzi-recetas/service-worker.js",
+    "service-worker.js.map": "/pwa-platzi-recetas/service-worker.js.map",
+    "static/css/main.08c260af.chunk.css.map": "/pwa-platzi-recetas/static/css/main.08c260af.chunk.css.map",
+    "static/js/2.5bfef1b9.chunk.js.LICENSE.txt": "/pwa-platzi-recetas/static/js/2.5bfef1b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af5bb32d.js",
+    "static/js/2.5bfef1b9.chunk.js",
+    "static/css/main.08c260af.chunk.css",
+    "static/js/main.80a8d413.chunk.js"
+  ]
+}
