@@ -102,5 +102,19 @@ registerRoute(
   "GET"
 );
 
+registerRoute(
+  /^https?:\/\/www.themealdb.com\/images\/.*/,
+  new CacheFirst({
+    cacheName: "images",
+    plugins: [
+      new ExpirationPlugin({
+        maxAgeSeconds: 30 * 24 * 60 * 60,
+        maxEntries: 10,
+      }),
+    ],
+  }),
+  "GET"
+);
+
 // Regla por defecto
 registerRoute(/^https?.*/, new NetworkFirst(), "GET");
