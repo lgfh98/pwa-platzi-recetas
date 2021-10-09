@@ -1,6 +1,6 @@
 # Platzi Recetas
 
-![Captura de Recetas](.readme-static/captura.png)
+![Captura de Recetas](myapp/.readme-static/captura.png)
 
 [Ver App funcionando](https://lgfh98.github.io/pwa-platzi-recetas)
 
